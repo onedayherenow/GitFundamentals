@@ -21,6 +21,6 @@ Then when viewing the history of a git repository, you can pinpoint where the re
 functionality was added.
 
 ## Resources
-- [Git Commit Documentation](https://git-scm.com/docs/git-add)
+- [Git Commit Documentation](https://git-scm.com/docs/git-commit)
 ---
 [Back to home](../README.md)
